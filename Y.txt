@@ -1,29 +1,216 @@
-{"urls":[{"url":"http://肥猫.com","name":"🐼肥猫线路"},
-{"url":"http://www.饭太硬.com/tv/","name":"🍚饭太硬线路"},
-{"url":"https://d.kstore.dev/download/4684/fhhfs.json":"❤️戏曲音乐❤️"},
-{"url":"http://xn--u8g-mf3g9f.v.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=关注公众号券票圈","name":"🏡欧歌家庭线路"},
-{"url":"http://xn--u8g-mf3g9f.v.nxog.top/m/111.php?ou=公众号欧歌app&mz=all&jar=all&b=关注公众号券票圈","name":"🧿阿里4k线路"},
-// {"url":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json","name":"🌟南风线路"},
-{"url":"https://download.kstore.space/download/2883/nzk/nzk0722.json","name":"🌟D佬线路"},
-{"url":"https://盒子迷.top/禁止贩卖","name":"🌟盒子迷线路"},
-{"url":"http://我不是.摸鱼儿.top","name":"🌟摸鱼4K线路"},
-{"url": "https://szyyds.cn/tv/x.json","name": "🌟小马线路🌟"},
-{"url":"http://www.mpanso.com/%E5%B0%8F%E7%B1%B3/DEMO.json","name":"🍨小米线路"},
-// {"url":"http://8.210.232.168/xc.json","name":"🌟星辰线路线路"},
-// {"url":"https://agit.ai/66666/mao/raw/branch/master/00/000.m3u8","name":"🌟分享者线路"},
-// {"url":"http://rihou.vip:55/天天开心","name":"🌟开心线路"},
-{"url":"http://itvbox.cc/tvbox/云星日记/1.m3u8","name":"🌈云星日记线路"},
-{"url":"http://home.jundie.top:81/top98.json","name":"🌟俊佬线路"},
-{"url":"http://rihou.cc:88/荷城茶秀","name":"💚荷城茶秀线路"},
-{"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json","name":"💞香雅情线路"},
-// {"url":"https://cn.kstore.space/download/2863/01.txt","name":"🌟潇洒线路"},
-// {"url":"http://xiaohu.xzam.cn/xiaohu","name":"🌟小胡线路"},
-{"url": "https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/max.json","name": "🌟月光线路🌟"},
-{"url": "http://cdn.qiaoji8.com/tvbox.json","name": "🌟巧技线路🌟"},
-{"url": "http://bp.tvbox.cam/","name": "🌟小白线路🌟"},
-// {"url":"https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json","name":"💚高天流云线路"},
-// {"url":"https://agit.ai/n/b/raw/branch/a/b/c.json","name":"📢abc线路"},
-{"url":"http://52pan.top:81/api/v3/file/get/174964/%E5%90%BE%E7%88%B1%E8%AF%84%E6%B5%8B.m3u?sign=rPssLoffquDXszCARt6UNF8MobSa1FA27XomzOluJBY%3D%3A0","name":"💎吾爱线路"},
-{"url":"http://yydf.540734621.xyz/yydf/yydf/bd/yydf.json","name":"🌟业余线路"}
-]
+{
+  "urls": [
+{
+      "name": "🌺戏曲音乐🌸",
+      "url": "https://d.kstore.dev/download/4684/fhhfs.json"
+    },
+{
+      "name": "🌺DG音乐🌺",
+      "url": "https://ddzb.fun/dgmusic/api.json"
+    },
+  {
+      "name": "🌺刺刺音乐🌺",
+      "url": "https://d.kstore.dev/download/8975/刺刺专用音乐接口.json"
+    },
+  {
+      "name": "🌺饭太硬🌺",
+      "url": "http://www.饭太硬.com/tv"
+    },
+  {
+      "name": "🌺蓝色影视🌺",
+      "url": "https://d.kstore.dev/download/4684/xxdv.json"
+    },
+ {
+      "name": "🌺摸鱼儿🌺",
+      "url": "http://我不是.摸鱼儿.com"
+    },
+    {
+      "name": "🌺天天开心🌺",
+      "url": "http://ttkx.cc:55/天天开心"
+    },
+  {
+      "name": "🌺王二小🌺",
+      "url": "http://tvbox.王二小放牛娃.top"
+    },
+  {
+      "name": "🌺传说🌺",
+      "url": "https://chuanshuo.77blog.cn/tv.json"
+    },
+    {
+      "name": "🌺兄弟影视🌺",
+      "url": "http://ficfac.com/box/box.json"
+    },
+    {
+      "url": "http://mdxgh.tpddns.cn:9999/md.json",
+      "name": "🌺码点玫瑰仓🌺"
+    },
+  {
+      "name": "🌺影院🌺",
+      "url": "https://gitlab.hk/iii/qq/-/raw/main/20.json"
+    },
+{
+      "name": "🌺爱尚专线🌺",
+      "url": "http://211.101.234.24:68/%E7%88%B1%E5%B0%9A.txt"
+    },
+    {
+      "name": "🌺苦短影视🌺",
+      "url": "https://fs-im-kefu.7moor-fs1.com:443/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1733486568088/%E8%8B%A6%E7%9F%AD%E5%BD%B1%E8%A7%86.json"
+    },
+    {
+      "name": "🌺小狐狸影视🌺",
+      "url": "https://gitea.moe/xiaozhuaizhuai/ZJ/raw/branch/main/ZJ.4k"
+    },
+    {
+      "name": "🌺小舞影视🌺",
+      "url": "https://gitee.com/zhuaijiejie/zhuaijie/raw/master/ZJ.json"
+    },
+    {
+      "name": "🌺蓝色影视备用🌺",
+      "url": "https://d.kstore.dev/download/4684/hgrc.json"
+    },
+    {
+      "url": "https://6446.kstore.vip/fmys.json",
+      "name": "🌺驸马影视🌺"
+    },
+    {
+      "name": "🌺小米🌺",
+      "url": "http://www.mpanso.com/小米/DEMO.json"
+    },
+    {
+      "name": "🌺华影视🌺",
+      "url": "http://vip.hys.cool//app/api.json"
+    },
+    {
+      "name": "🌺青木🌺",
+      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/foxccs/tvbox/main/m.json"
+    },
+    {
+      "name": "🌺魔盒🌺",
+      "url": "https://git.acwing.com/999/tvbox/-/raw/main/%E9%AD%94%E7%9B%92.json"
+    },
+    {
+      "name": "🌺蓝天白云🌺",
+      "url": "https://gitee.com/ltby1/vip/raw/master/蓝天白云.json"
+    },
+    {
+      "name": "🌺茄子影视🌺",
+      "url": "https://700sjro44343.vicp.fun/eggp/tv.json"
+    },
+ {
+      "name": "🌺拾光追影🌺",
+      "url": "https://4708.kstore.space/omg/omg.json"
+    },
+    {
+      "name": "🌺拾光短剧🌺",
+      "url": "https://4708.kstore.space/DJ/DJ.json"
+    },
+    {
+      "name": "🌺菜妮丝🌺",
+      "url": "https://tv.xn--yhqu5zs87a.top"
+    },
+    {
+      "name": "🌺小脑斧🌺",
+      "url": "https://6492.kstore.space/xnf/xnf.json"
+    },
+    {
+      "name": "🌺肥猫🌺",
+      "url": "http://肥猫.com/"
+    },
+    {
+      "name": "🌺青龙🌺",
+      "url": "https://gitee.com/yiwu369/6758/raw/master/1.json"
+    },
+    {
+      "name": "🌺俊佬🌺",
+      "url": "http://home.jundie.top:81/top98.json"
+    },
+    {
+      "name": "🌺短剧🌺",
+      "url": "http://74.120.175.78/JK/XYQTVBox/dj.json"
+    },
+ {
+      "url": "http://jin.锦哥哥.love",
+      "name": "🌺锦哥哥🌺"
+    },
+    {
+      "name": "🌺南风🌺",
+      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json"
+    },
+    {
+      "name": "🌺小马🌺",
+      "url": "http://szyyds.cn/tv/x.json"
+    },
+    {
+      "name": "🌺业余🌺",
+      "url": "https://yydf.540734621.xyz/QQ/yydf2024.json"
+    },
+    {
+      "name": "🌺飘零🌺",
+      "url": "https://100km.top/0"
+    },
+    {
+      "name": "🌺玉玉🌺",
+      "url": "https://fmbox.cc"
+    },
+    {
+      "name": "🌺黄金🌺",
+      "url": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/hjys.free.json"
+    },
+    {
+      "name": "🌺PG🌺",
+      "url": "http://www.fish2018.us.kg/p/jsm.json"
+    },
+    {
+      "name": "🌺真心🌺",
+      "url": "http://www.fish2018.us.kg/z/FongMi.json"
+    },
+    {
+      "name": "🌺琉芸🌺",
+      "url": "https://git.acwing.com/999/tvbox/-/raw/main/%E9%AD%94%E7%9B%92.json"
+    },
+    {
+      "name": "🌺雷蒙🌺",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/lemj.json"
+    },
+    {
+      "name": "🌺各种网盘🌺",
+      "url": "https://gh.llkk.cc/https://raw.githubusercontent.com/PizazzGY/TVBox/main/api.json"
+    },
+    {
+      "name": "🌺PizazzGY🌺",
+      "url": "https://9877.kstore.space/FourD/api.json"
+    },
+    {
+      "name": "🌺PiGY备用🌺",
+      "url": "https://github.ednovas.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/api.json"
+    },
+    {
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
+      "name": "🌺高天流云🌺"
+    },
+ {
+      "url": "https://qixing.myhkw.com/qxzj/七星智教",
+      "name": "🌺少儿频道🌺"
+    },
+    {
+      "name": "🌺码点苹果🌺",
+      "url": "http://120.79.4.185/xgh.json"
+    },
+    {
+      "name": "🌺码点玫瑰🌺",
+      "url": "http://120.79.4.185/mdkdb.json"
+    },
+    {
+      "name": "🌺码点樱桃🌺",
+      "url": "http://120.79.4.185/mdxgh.json"
+    },
+    {
+      "name": "🌺码点草莓🌺",
+      "url": "http://120.79.4.185/dz.json"
+    },
+    {
+      "name": "🌺喵影视🌺",
+      "url": "http://meowtv.cn/tv"
+    }
+  ]
 }

@@ -20,17 +20,25 @@
       "name": "🌺饭太硬🌺",
       "url": "http://www.饭太硬.com/tv"
     },
+ {
+      "name": "🌺欧歌🌺",
+      "url": " https://xn--wyyw-rp5imh.v.nxog.top/apitv.php?id=1"
+    },
   {
-      "name": "🌺蓝色影视🌺",
-      "url": "https://d.kstore.dev/download/4684/xxdv.json"
+      "name": "🌺七星🌺",
+      "url": "https://11256.kstore.space/%E5%85%8D%E8%B4%B9%E5%8B%BF%E4%BC%A0.json"
+    },
+{
+      "url": "https://git.acwing.com/203BDXC/tvboxt/-/raw/main/CJ.json",
+      "name": "🚀超级线路"
     },
  {
       "name": "🌺摸鱼儿🌺",
       "url": "http://我不是.摸鱼儿.com"
     },
     {
-      "name": "🌺天天开心🌺",
-      "url": "http://ttkx.cc:55/天天开心"
+      "name": "🌺暮雨🌺",
+      "url": "http://8.138.7.223/tv.txt"
     },
   {
       "name": "🌺王二小🌺",
@@ -45,8 +53,8 @@
       "url": "https://tv.xn--yhqu5zs87a.top"
     },
  {
-      "name": "🌺吊炸天🌺",
-      "url": "http://ok321.top/tv"
+      "name": "🌺儿童教育🌺",
+      "url": "https://jihulab.com/bhjk1/vip/-/raw/main/vip.json"
     },
  {
       "name": "🌺飘零🌺",
@@ -92,7 +100,19 @@
       "name": "🌺爱尚专线🌺",
       "url": "http://211.101.234.24:68/%E7%88%B1%E5%B0%9A.txt"
     },
+  {
+      "url": "http://mzjk.top/禁止贩卖",
+      "name": "🚀宝盒线路"
+    },
     {
+      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/maoystv/6/main/000.json",
+      "name": "🚀分享者"
+    },
+    {
+      "url": "http://t.lkkk.love/02.json",
+      "name": "🚀天命线路"
+    },
+  {
       "name": "🌺苦短影视🌺",
       "url": "https://fs-im-kefu.7moor-fs1.com:443/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1733486568088/%E8%8B%A6%E7%9F%AD%E5%BD%B1%E8%A7%86.json"
     },

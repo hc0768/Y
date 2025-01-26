@@ -1,7 +1,7 @@
 {
   "urls": [
 {
-      "name": "🌺鳄渚观影🌸",
+      "name": "🌺观影🌸",
       "url": "https://git.acwing.com/Q305/d/-/raw/main/d.json"
     },
 {
@@ -47,6 +47,10 @@
   {
       "name": "🌺肥猫🌺",
       "url": "http://肥猫.com/"
+    },
+ {
+      "name": "🌺小苹果🌺",
+      "url": "https://bitbucket.org/xduo/duoapi/raw/master/xpg.json"
     },
  {
       "name": "🌺菜妮丝🌺",
@@ -154,15 +158,15 @@
     },
     {
       "name": "🌺茄子影视🌺",
-      "url": "https://700sjro44343.vicp.fun/eggp/tv.json"
+      “ url”：“ https：//700sjro444343.vicp.fun/eggp/eggp/tv.json”
     },
- {
-      "name": "🌺拾光追影🌺",
-      "url": "https://4708.kstore.space/omg/omg.json"
+{
+      “名称”：“🌺拾光追影🌺”，
+      “ url”：“ https：//4708.kstore.space/omg/omg.json”
     },
     {
-      "name": "🌺拾光短剧🌺",
-      "url": "https://4708.kstore.space/DJ/DJ.json"
+      “名称”：“🌺拾光短剧🌺”，
+      “ url”：“ https：//4708.kstore.space/dj/dj.json”
     },
     {
       "name": "🌺青龙🌺",
@@ -182,55 +186,55 @@
     },
     {
       "name": "🌺黄金🌺",
-      "url": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/hjys.free.json"
+      “url”：“https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/hjys.free.json”
     },
     {
-      "name": "🌺PG🌺",
-      "url": "http://www.fish2018.us.kg/p/jsm.json"
+      "名称": "🌺PG🌺",
+      “url”：“http://www.fish2018.us.kg/p/jsm.json”
     },
     {
       "name": "🌺真心🌺",
-      "url": "http://www.fish2018.us.kg/z/FongMi.json"
+      “url”：“http://www.fish2018.us.kg/z/FongMi.json”
     },
     {
       "name": "🌺琉芸🌺",
-      "url": "https://git.acwing.com/999/tvbox/-/raw/main/%E9%AD%94%E7%9B%92.json"
+      “url”：“https://git.acwing.com/999/tvbox/-/raw/main/%E9%AD%94%E7%9B%92.json”
     },
     {
       "name": "🌺雷蒙🌺",
-      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/lemj.json"
+      “url”：“https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/lemj.json”
     },
     {
       "name": "🌺各种网盘🌺",
-      "url": "https://gh.llkk.cc/https://raw.githubusercontent.com/PizazzGY/TVBox/main/api.json"
+      “url”：“https://gh.​​​​​​llkk.cc/https://raw.githubusercontent.com/PizazzGY/TVBox/main/api.json”
     },
     {
       "name": "🌺PizazzGY🌺",
-      "url": "https://9877.kstore.space/FourD/api.json"
+      “url”：“https://9877.kstore.space/FourD/api.json”
     },
     {
       "name": "🌺PiGY备用🌺",
-      "url": "https://github.ednovas.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/api.json"
+      “url”：“https://github.ednovas.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/api.json”
     },
     {
       "url": "https://gh-proxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
       "name": "🌺高天流云🌺"
     },
- {
+{
       "url": "https://qixing.myhkw.com/qxzj/七星智教",
       "name": "🌺少儿频道🌺"
     },
     {
       "name": "🌺码点苹果🌺",
-      "url": "http://120.79.4.185/xgh.json"
+      “ url”：“ http://120.79.4.185/xgh.json”
     },
     {
       "name": "🌺码点玫瑰🌺",
-      "url": "http://120.79.4.185/mdkdb.json"
+      “ url”：“ http://120.79.4.185/mdkdb.json”
     },
     {
       "name": "🌺码点樱桃🌺",
-      "url": "http://120.79.4.185/mdxgh.json"
+      “ url”：“ http://120.79.4.185/mdxgh.json”
     },
     {
       "name": "🌺码点草莓🌺",
